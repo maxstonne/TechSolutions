@@ -9,9 +9,6 @@ A **TechSecure Solutions** é uma empresa especializada em Segurança da Informa
 1. [Escopo do Projeto](#escopo-do-projeto)
 2. [Serviços Oferecidos](#serviços-oferecidos)
 3. [Estruturação Interna da Empresa](#estruturação-interna-da-empresa)
-4. [Instruções de Uso](#instruções-de-uso)
-    - [Configuração do Ambiente](#configuração-do-ambiente)
-    - [Utilização da Base de Dados](#utilização-da-base-de-dados)
 
 ## Escopo do Projeto
 
@@ -68,14 +65,3 @@ A empresa **TechSecure Solutions** oferecerá os seguintes serviços:
 
 **Entrega 2: Cálculo do Hash de um Arquivo**
 - Utilização de SHA-256 para calcular o hash de um arquivo.
-
-## Instruções de Uso
-
-### Configuração do Ambiente
-
-Para utilizar as ferramentas e scripts fornecidos neste repositório, siga as etapas abaixo para configurar seu ambiente de desenvolvimento:
-
-1. **Clone o Repositório:**
-   ```bash
-   git clone https://github.com/TechSolutions/techsolutions-project.git
-   cd techsolution-project
